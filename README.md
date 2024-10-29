@@ -85,9 +85,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## FINAL REMARKS ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=carl24tech&repo=Cyberion-Spark-X&show_owner=true&theme=dark)
+
 
 
 
@@ -99,10 +98,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT CARLTECH HERE
+## CONTACT ME HERE
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="CONTACT-CARLTECH" src="https://img.shields.io/badge/CONTACT-CARLTECH-h?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
+   <a href="wa.me/+254743399594"><img title="CONTACT-WHATSAPP" src="https://img.shields.io/badge/CONTACT-TSUMA-h?color=black&style=for-the-badge&logo=jordan" width="240" height="45.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
