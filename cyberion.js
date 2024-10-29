@@ -7,9 +7,9 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
-//Hello team..Please  and give a starto my repoif you don't mind 
-//> Everything fixed to level bes
-https://github.com/carl24tech/Cyberion-Sprk-X
+//Hello team...Please  give a star to my repo if you don't mind 
+//> Everything fixed to level best
+https://github.com/Tsumahhh/Cyberion
 let chatbotMemory = []; // Array to store user inputs
 
 rl.question('Welcome! Type your message: ', (message) => {
